@@ -1,0 +1,237 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 396847b6206184f4f993447ea475b776, type: 3}
+  m_Name: IngredientData
+  m_EditorClassIdentifier: 
+  ingredientInfos:
+  - ingredientName: "\uC18C\uACE0\uAE30,Beef"
+    isSkewer: 0
+    gram: 100
+    howToTrim: "\uC800\uC6B8\uB85C 100g \uC774\uC0C1 \uB9DE\uCDB0\uC11C \uBD09\uC9C0\uC5D0
+      \uB123\uACE0 \uB0C9\uB3D9\uACE0\uC5D0 \uB123\uB294\uB2E4."
+  - ingredientName: "\uC591\uACE0\uAE30,Lamb"
+    isSkewer: 0
+    gram: 100
+    howToTrim: "\uC800\uC6B8\uB85C 100g \uC774\uC0C1 \uB9DE\uCDB0\uC11C \uBD09\uC9C0\uC5D0
+      \uB123\uACE0 \uB0C9\uB3D9\uACE0\uC5D0 \uB123\uB294\uB2E4."
+  - ingredientName: "\uACE0\uC218,Coriander"
+    isSkewer: 0
+    gram: 0
+    howToTrim: "\uBC11\uB3D9 \uC790\uB974\uACE0 4\uB4F1\uBD84 \uD55C\uB2E4. (\uC0F9\uAD88\uC5D0\uC120
+      \uB530\uB85C \uBE7C\uB294 \uC7AC\uB8CC)"
+  - ingredientName: "\uC465\uAC13,Crown daisy"
+    isSkewer: 0
+    gram: 0
+    howToTrim: "3\uB4F1\uBD84 \uD55C\uB2E4."
+  - ingredientName: "\uCCAD\uACBD\uCC44,Bok choy"
+    isSkewer: 0
+    gram: 0
+    howToTrim: "\uCCAD\uACBD\uCC44 \uBB49\uCE58\uB294 \uD070 \uC78E\uB9CC \uBA87\uAC1C
+      \uB5C0\uB2E4."
+  - ingredientName: "\uC5BC\uAC08\uC774,Baby napa"
+    isSkewer: 0
+    gram: 0
+    howToTrim: "\uC801\uB2F9\uD55C \uD06C\uAE30\uB85C \uC798\uAC8C \uAC00\uB85C\uB85C
+      \uC790\uB978\uB2E4."
+  - ingredientName: "\uC591\uBC30\uCD94,Cabbage"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC54C\uBC30\uCD94,Napa cabbage"
+    isSkewer: 0
+    gram: 0
+    howToTrim: "\uC801\uB2F9\uD55C \uD06C\uAE30\uB85C \uC798\uAC8C \uAC00\uB85C\uB85C
+      \uC790\uB978\uB2E4."
+  - ingredientName: "\uB2E8\uD638\uBC15,Sweet pumpkin"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uAF43\uBD84\uBAA8\uC790,Flower fenhaozi"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uBD84\uBAA8\uC790,Fenhaozi noodle"
+    isSkewer: 0
+    gram: 0
+    howToTrim: "3\uB4F1\uBD84 \uD55C\uB2E4."
+  - ingredientName: "\uB0A9\uC791\uB2F9\uBA74,Flat dangmyeon"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC0E4\uBE0C\uBA74(\uB274\uC9C4\uBA74)"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uB113\uC801\uB274\uC9C4\uBA74"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uB77C\uBA74\uC0AC\uB9AC\uBC18\uAC1C"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uB290\uD0C0\uB9AC\uBC84\uC12F"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC0C8\uC1A1\uC774\uBC84\uC12F"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uD33D\uC774\uBC84\uC12F"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC911\uAD6D\uB2F9\uBA74(\uB113\uC801\uB2F9\uBA74)"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uB2F9\uBA74,Cellophane noodles"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uB450\uBD80\uD53C"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uAC74\uB450\uBD80"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uD478\uC8FC"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uD770\uBAA9\uC774\uBC84\uC12F"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uBAA9\uC774\uBC84\uC12F"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uBE44\uC5D4\uB098\uC18C\uC138\uC9C0"
+    isSkewer: 1
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uCF58\uC18C\uC138\uC9C0"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uB9DB\uC0B4"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC2A4\uBAA8\uD06C\uD584"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uBD80\uC0B0\uC5B4\uBB35"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uB450\uBD80\uBAA8\uC591\uD53C\uC2DC\uBCFC"
+    isSkewer: 1
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC720\uBD80"
+    isSkewer: 1
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uBB38\uC5B4\uD53C\uC2DC\uBCFC"
+    isSkewer: 1
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC0C8\uC6B0\uD53C\uC2DC\uBCFC"
+    isSkewer: 1
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC624\uC9D5\uC5B4\uD53C\uC2DC\uBCFC"
+    isSkewer: 1
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC219\uC8FC\uB098\uBB3C"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uCF69\uB098\uBB3C"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC625\uC218\uC218\uBA74"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uACF0\uD53C\uBBF8\uC5ED"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC8FD\uC21C,Bamboo shoots"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uB2E4\uC2DC\uB9C8"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uAC10\uC790,Potato"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uD45C\uACE0\uBC84\uC12F"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uACE0\uC0AC\uB9AC"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC5F0\uADFC,Lotus root"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uB5A1\uAD6D\uB5A1"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uACE0\uAD6C\uB9C8\uB5A1"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uCE58\uC988\uB5A1"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uCE7C\uC9D1\uC624\uC9D5\uC5B4"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC5BC\uB9B0\uB450\uBD80"
+    isSkewer: 0
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uD0C8\uAC01\uC0C8\uC6B0"
+    isSkewer: 1
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uBA54\uCD94\uB9AC\uC54C,Quail eggs"
+    isSkewer: 1
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uCB48\uAFB8\uBBF8"
+    isSkewer: 1
+    gram: 0
+    howToTrim: 
+  - ingredientName: "\uC18C\uB77C"
+    isSkewer: 1
+    gram: 0
+    howToTrim: 
